@@ -1,0 +1,6 @@
+E:\Jotaherrera\Coding\C#\PlainTextReader\PlainTextReader\bin\Release\net6.0-windows\publish\PlainTextReader.exe
+E:\Jotaherrera\Coding\C#\PlainTextReader\PlainTextReader\bin\Release\net6.0-windows\publish\PlainTextReader.dll
+E:\Jotaherrera\Coding\C#\PlainTextReader\PlainTextReader\bin\Release\net6.0-windows\publish\PlainTextReader.deps.json
+E:\Jotaherrera\Coding\C#\PlainTextReader\PlainTextReader\bin\Release\net6.0-windows\publish\PlainTextReader.runtimeconfig.json
+E:\Jotaherrera\Coding\C#\PlainTextReader\PlainTextReader\bin\Release\net6.0-windows\publish\PlainTextReader.pdb
+E:\Jotaherrera\Coding\C#\PlainTextReader\PlainTextReader\bin\Release\net6.0-windows\publish\CsvHelper.dll
