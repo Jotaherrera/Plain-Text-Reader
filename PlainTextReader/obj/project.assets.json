@@ -49,19 +49,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\juanh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Jotaherrera\\Coding\\C#\\PlainTextReader\\PlainTextReader\\PlainTextReader.csproj",
+      "projectUniqueName": "D:\\Jotaherrera\\Coding\\Plain-Text-Reader\\PlainTextReader\\PlainTextReader.csproj",
       "projectName": "PlainTextReader",
-      "projectPath": "E:\\Jotaherrera\\Coding\\C#\\PlainTextReader\\PlainTextReader\\PlainTextReader.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Jotaherrera\\Coding\\C#\\PlainTextReader\\PlainTextReader\\obj\\",
+      "projectPath": "D:\\Jotaherrera\\Coding\\Plain-Text-Reader\\PlainTextReader\\PlainTextReader.csproj",
+      "packagesPath": "C:\\Users\\juanh\\.nuget\\packages\\",
+      "outputPath": "D:\\Jotaherrera\\Coding\\Plain-Text-Reader\\PlainTextReader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -111,7 +111,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
